@@ -85,3 +85,22 @@ Creación de reportes interactivos con Power BI para la toma de decisiones insti
 - 🤝 Me motiva **trabajar en equipo** y compartir conocimientos
 - 🎯 Busco constantemente **crecer profesionalmente** y enfrentar nuevos retos
 
+## 📫 **¿Quieres contactarme?**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yeltsin-wilber-mu%C3%B1oz-corichahua-853576363/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Yeltsin-MC" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:yeltsin.munoz.27@unsch.edu.pe" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+## ✨ **Frase que me inspira**
+> *"Si puedes imaginarlo , puedes programarlo"*
+
+---
