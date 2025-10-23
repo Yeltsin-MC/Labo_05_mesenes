@@ -104,3 +104,11 @@ Creación de reportes interactivos con Power BI para la toma de decisiones insti
 > *"Si puedes imaginarlo , puedes programarlo"*
 
 ---
+<div align="center">
+  
+ <img src="https://komarev.com/ghpvc/?username=Yeltsin-MC&label=👀%20Vistas%20del%20perfil&color=blueviolet&style=for-the-badge" alt="Contador de visitas" />
+  
+  ![Línea decorativa](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
+</div>
+
