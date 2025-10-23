@@ -72,3 +72,16 @@ Creación de reportes interactivos con Power BI para la toma de decisiones insti
 **Tecnologías:** `Power BI` `SQL Server` `Python` `Lisidchard`
 
 ---
+## 🌱 **Actualmente aprendiendo**
+- 🎯 **Desarrollo web avanzado** con Astro y React
+- 🤖 **Fundamentos de IA y Machine Learning** con Python
+- ☁️ **Buenas prácticas DevOps** y despliegue en la nube
+- ⚡ **Optimización de rendimiento** frontend y backend
+
+---
+## 💡 **Sobre mí**
+- 🎓 Estudiante de **Ingeniería de Sistemas** apasionado por el desarrollo de software
+- 💡 Disfruto **resolver problemas complejos** con soluciones creativas y eficientes
+- 🤝 Me motiva **trabajar en equipo** y compartir conocimientos
+- 🎯 Busco constantemente **crecer profesionalmente** y enfrentar nuevos retos
+
