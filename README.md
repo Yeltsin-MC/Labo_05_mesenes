@@ -37,3 +37,19 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 ---
+---
+
+## 📊 **Estadísticas de GitHub**
+
+<div align="center">
+  
+  ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=Yeltsin-MC&show_icons=true&theme=radical&hide_border=true)
+
+  ![Racha GitHub](https://streak-stats.demolab.com?user=Yeltsin-MC&theme=radical&hide_border=true)
+  
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeltsin-MC&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
