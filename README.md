@@ -16,3 +16,24 @@
 </p>
 
 ---
+### 🌐 **Frontend & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Lucide-FF6B35?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lisidchard-4A90E2?style=for-the-badge&logo=library&logoColor=white" />
+</p>
+
+### 🗄️ **Bases de Datos**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+### ⚙️ **Herramientas & Otros**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+---
