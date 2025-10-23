@@ -53,3 +53,22 @@
 
 ---
 
+
+## 🚀 **Proyectos Destacados**
+
+### 📚 **Sistema Académico Universitario**
+Diseño e implementación de una base de datos completa para gestionar estudiantes, cursos, docentes, matrículas y pagos.
+
+**Tecnologías:** `Java` `MySQL` `Spring Boot` `Astro`
+
+### 💰 **Gestor de Pagos Automatizado**
+Aplicación que automatiza la emisión de recibos y el control de estado de cuentas, reduciendo tiempos administrativos.
+
+**Tecnologías:** `Python` `PostgreSQL` `Lucide` `JavaScript`
+
+### 📈 **Dashboard de Indicadores Académicos**
+Creación de reportes interactivos con Power BI para la toma de decisiones institucionales.
+
+**Tecnologías:** `Power BI` `SQL Server` `Python` `Lisidchard`
+
+---
